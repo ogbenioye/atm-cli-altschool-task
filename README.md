@@ -2,11 +2,11 @@
 A simple ATM CLI program
 
 ## Features
-Change Pin 
-View balance
-Withdraw funds
-Deposit funds
-Cancel Transaction
+• Change Pin 
+• View balance
+• Withdraw funds
+• Deposit funds
+• Cancel Transaction
 
 ### Default Pin: 1234
 
