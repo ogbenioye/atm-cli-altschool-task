@@ -8,7 +8,6 @@ import (
 	"strconv"
 )
 
-var defaultpin = "1234"
 var accessPin string
 var availableBal float32
 
@@ -222,6 +221,6 @@ func deposit() {
 }
 
 func exit() {
-	fmt.Println("** Goodbye! **")
+	fmt.Println("** Thank you for banking with us **")
 	os.Exit(0)
 }
